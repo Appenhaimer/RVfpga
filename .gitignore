@@ -1,0 +1,8 @@
+driversLinux_NexysA7/
+examples/
+src/
+verilatorSIM/
+*.pdf
+*.pptx
+Labs/LabInstructions
+Labs/RVfpgaLabsSolutions
